@@ -21,7 +21,8 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-``
+```
+<!DOCTYPE html>
 <html>
     <head>
       <title>My webserver</title>
@@ -41,7 +42,7 @@ Testing the webserver.
       </h3>
    </body>
 </html>
-``
+```
 
 ## OUTPUT:
 <img width="607" alt="Screenshot 2023-10-12 090443" src="https://github.com/Srujana0303/simplewebserver/assets/132996836/8a03a772-8554-467a-8607-413900023b1b">
