@@ -45,7 +45,9 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-<img width="607" alt="Screenshot 2023-10-12 090443" src="https://github.com/Srujana0303/simplewebserver/assets/132996836/8a03a772-8554-467a-8607-413900023b1b">
+
+<img width="960" alt="image" src="https://github.com/Srujana0303/simplewebserver/assets/132996836/7b9c46a3-3c2b-4470-a124-7b71cfd823be">
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
