@@ -46,11 +46,11 @@ Testing the webserver.
 
 ## OUTPUT:
 
+<img width="902" alt="image" src="https://github.com/Srujana0303/simplewebserver/assets/132996836/1395fec7-e113-45a0-b6da-3b2864e853f8">
 
-![Alt text](image.png)
 
+<img width="949" alt="image" src="https://github.com/Srujana0303/simplewebserver/assets/132996836/5be4f88f-918e-4198-a18d-18a6a2a46a56">
 
-![Alt text](<Screenshot 2023-10-28 091403.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
